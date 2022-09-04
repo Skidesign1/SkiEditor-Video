@@ -1,0 +1,53 @@
+.bg-editor {
+  background-color: #3b3b3c;
+}
+
+.w-90 {
+  width: 90%;
+}
+
+.border-div {
+  border-left: 1px solid #3b3b3c;
+}
+
+.bg-editor-content {
+  background: #2f2f2f;
+}
+
+.bg-topbar {
+  background: #3d3d3d;
+}
+
+.bg-tab {
+  background: #4f4f50c4;
+}
+
+.bg-tab-active {
+  background: #606061;
+}
+
+.canvas-container {
+  margin: 20px auto;
+}
+
+.media-img {
+  width: 85px;
+  height: 85px;
+}
+
+.inspector input[type="file"] {
+  display: none;
+}
+
+.testing input[type="file"] {
+  display: none;
+}
+
+.staroo path {
+  stroke-width: 10 !important;
+}
+
+/* .hue-cust {
+  width: "100px" !important;
+  height: "10px" !important;
+} */
